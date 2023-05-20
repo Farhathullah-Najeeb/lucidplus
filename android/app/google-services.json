@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165842862084",
+    "project_id": "lusidplus",
+    "storage_bucket": "lusidplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165842862084:android:1cfe9f864476f8f5f7b551",
+        "android_client_info": {
+          "package_name": "com.example.lucidplustest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165842862084-nmjv0ktj1594ep7uvvl3vg9n5otb609r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvnWMd-qhw04DBYbGxf5q2PdR4h4uI1zc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165842862084-nmjv0ktj1594ep7uvvl3vg9n5otb609r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
