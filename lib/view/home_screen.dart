@@ -145,7 +145,7 @@ class Home_Screen extends StatelessWidget {
       scrollable: true,
       title: const Center(
         child: Text(
-          "Do you want to delete this staff",
+          "Do you want to delete this Tweets",
           style: TextStyle(
               fontWeight: FontWeight.bold, fontSize: 16, color: Colors.black),
         ),
